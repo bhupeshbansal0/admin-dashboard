@@ -1,0 +1,69 @@
+{
+    "Sidebar": [
+        {
+            "heading": "Dashboard",
+            "value": [
+                {
+                    "url": "/admin/dashboard",
+                    "text": "Dashboard",
+                    "Icon": "RiDashboardFill"
+                },
+                {
+                    "url": "/admin/product",
+                    "text": "Products",
+                    "Icon": "RiShoppingBag3Fill"
+                },
+                {
+                    "url": "/admin/customer",
+                    "text": "Customers",
+                    "Icon": "IoIosPeople"
+                },
+                {
+                    "url": "/admin/transaction",
+                    "text": "Transactions",
+                    "Icon": "AiFillFileText"
+                }
+            ]
+        },
+        {
+            "heading": "Charts",
+            "value": [
+                {
+                    "url": "/admin/chart/bar",
+                    "text": "Bar",
+                    "Icon": "FaChartBar"
+                },
+                {
+                    "url": "/admin/chart/pie",
+                    "text": "Pie",
+                    "Icon": "FaChartPie"
+                },
+                {
+                    "url": "/admin/chart/line",
+                    "text": "Line",
+                    "Icon": "FaChartLine"
+                }
+            ]
+        },
+        {
+            "heading": "Apps",
+            "value": [
+                {
+                    "url": "/admin/chart/bar",
+                    "text": "Stopwatch",
+                    "Icon": "FaStopwatch"
+                },
+                {
+                    "url": "/admin/chart/pie",
+                    "text": "Coupons",
+                    "Icon": "RiCoupon3Fill"
+                },
+                {
+                    "url": "/admin/chart/line",
+                    "text": "Toss",
+                    "Icon": "FaGamepad"
+                }
+            ]
+        }
+    ]
+}
